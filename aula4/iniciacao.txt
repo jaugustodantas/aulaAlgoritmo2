@@ -1,0 +1,4 @@
+Existe algum framework científico para criação de prompts. 
+Se existe descrever o framework. Mlops
+
+
