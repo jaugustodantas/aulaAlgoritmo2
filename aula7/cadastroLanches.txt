@@ -1,0 +1,3 @@
+Nome: x-tudo, Preço: 10.00
+Nome: x-salada, Preço: 15.00
+Nome: x-ueg, Preço: 20.00
